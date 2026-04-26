@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Maria Jovânia! 🧬💻
 
-<!--
-**mariajovania/mariajovania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Biotecnologia na UFPB** (Campus I) e pesquisadora em Biocombustíveis e Bioinsumos.
 
-Here are some ideas to get you started:
+### 🔬 O que eu faço atualmente:
+- **Iniciação Científica (PIVIC):** Bioprospecção de *Bacillus* isolados do solo para formulação de inoculantes em cana-de-açúcar (**Lab Biomicro**).
+- **Inovação:** Colaboradora na **YBY Inovações Biotecnológicas**.
+- **Foco:** Testes *in vitro* de solubilização de fosfato, produção de AIA e estresse hídrico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Ferramentas & Estudos:
+- **Python:** Desenvolvendo scripts para automação de cálculos laboratoriais e análise de dados.
+- **Excel:** Organização e tratamento de grandes volumes de dados experimentais.
+- **Bioinformática:** Interessada em unir bancada e computação para predição biotecnológica.
+
+---
+*"Transformando dados biológicos em soluções sustentáveis."*
